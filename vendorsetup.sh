@@ -1,0 +1,4 @@
+add_lunch_combo omni_Z01M-userdebug
+add_lunch_combo omni_Z01M-eng
+add_lunch_combo full_Z01M-userdebug
+add_lunch_combo full_Z01M-eng
