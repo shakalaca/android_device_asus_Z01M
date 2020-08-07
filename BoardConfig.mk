@@ -48,6 +48,9 @@ TARGET_USERIMAGES_USE_F2FS := true
 # Partitions
 BOARD_SUPPRESS_SECURE_ERASE := true
 
+# USB Mass Storage
+BOARD_UMS_LUNFILE := "/sys/class/android_usb/android0/f_mass_storage/lun/file"
+
 # Keystore
 TARGET_PROVIDES_KEYMASTER := true
 TARGET_KEYMASTER_WAIT_FOR_QSEE := true
